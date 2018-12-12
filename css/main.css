@@ -95,7 +95,6 @@ button {
   width: 1200px;
   margin: auto;
   max-width: 100%;
-  text-align: center;
 }
 
 .text-container {
@@ -493,7 +492,7 @@ button {
 */
 .index-title {
   text-align: center;
-  margin-bottom: 35px;
+  margin-bottom: 75px;
   font-family: Montserrat;
   font-size: 64px;
 
