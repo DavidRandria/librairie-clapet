@@ -472,8 +472,9 @@ button {
 .page-single__title {
   margin: 0;
   font-size: 5.6em;
+  font-family: 'Montserrat', sans-serif;
   line-height: 1.4;
-  font-weight: 500;
+  font-weight: bold;
 }
 
 .page-single__subtitle {
