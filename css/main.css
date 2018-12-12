@@ -256,13 +256,13 @@ button {
 
 .header__title {
   font-size: 64px;
-  font-family: Montserrat, bold;
+  font-family: "Montserrat", bold;
 }
 
 .header__subtitle {
   margin: 0;
   font-size: 3.2em;
-  font-weight: 100;
+  font-weight: bold;
   text-shadow: 1px 1px 5px #000;
 }
 
