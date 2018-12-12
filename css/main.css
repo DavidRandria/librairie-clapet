@@ -92,7 +92,7 @@ button {
 .container {
   margin: auto;
   padding: 0 15px;
-  width: 960px;
+  width: 1200px;
   margin: auto;
   max-width: 100%;
   text-align: center;
@@ -319,12 +319,13 @@ button {
 */
 
 .honey-pot-list {
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .honey-pot {
   display: inline-block;
-  margin: 0 60px 35px 30px;
+  margin: auto;
   text-align: center;
 }
 
@@ -353,6 +354,7 @@ button {
 .honey-pot__title {
   margin: 0;
   font-size: 2em;
+  font-family: Montserrat;
   font-weight: bold;
 }
 
@@ -388,7 +390,6 @@ button {
 
 .news__image {
   display: block;
-  width: 100%;
 }
 
 .news__date {
