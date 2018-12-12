@@ -293,15 +293,26 @@ button {
 /**
 * separator
 */
-.separator {
+.separator1 {
   display: block;
-  margin: 50px auto;
+  margin: 100px auto;
   width: 200px;
   height: 1px;
+  transform: rotate(15deg);
   border: none;
   background-color: #d9d9d9;
 }
 
+.separator1::before {
+  content: "";
+  display: block;
+  margin: 100px auto;
+  width: 200px;
+  height: 1px;
+  transform: rotate(-30deg);
+  border: none;
+  background-color: #d9d9d9;
+}
 
 /**
 * honey-pot
