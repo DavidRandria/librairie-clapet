@@ -479,6 +479,11 @@ button {
   font-family: "Montserrat";
 }
 
+.parent {
+display: flex;
+
+}
+
 
 /**
 * decouvrez-notre-librairie
