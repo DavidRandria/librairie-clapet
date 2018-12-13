@@ -491,6 +491,7 @@ display: flex;
   font-size: 25px;
   text-align: justify;
   color: #1a1a1a;
+  margin: 30px;
 }
 
 .Texte2 {
@@ -500,6 +501,7 @@ display: flex;
   font-size: 20px;
   text-align: justify;
   color: #1a1a1a;
+  margin: 30px;
 }
 
 .Citation1 {
@@ -507,12 +509,10 @@ display: flex;
   height: 86px;
   font-family: "Montserrat-ExtraLight";
   font-size: 24px;
-  font-weight: 200;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
   color: #e8a27d;
+  margin: 30px;
+  border-left: #d9d9d9 4px solid;
+  padding-left: 20px;
 }
 
 .Auteur1 {
@@ -520,13 +520,9 @@ display: flex;
   height: 19px;
   font-family: "WorkSans";
   font-size: 16px;
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
   text-align: right;
   color: #1a1a1a;
+  margin: 30px;
 }
 
 .Citation2 {
@@ -534,40 +530,27 @@ display: flex;
   height: 86px;
   font-family: "Montserrat-ExtraLight";
   font-size: 24px;
-  font-weight: 200;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
   color: #e8a27d;
+  margin: 30px;
+  border-left: #d9d9d9 4px solid;
+  padding-left: 20px;
 }
 
 .Auteur2 {
   width: 600px;
-  height: 19px;
   font-family: "WorkSans";
   font-size: 16px;
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
   text-align: right;
   color: #1a1a1a;
+  margin: 30px;
 }
 
 .Texte3 {
   width: 600px;
-  height: 160px;
   font-family: "WorkSans";
   font-size: 20px;
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: justify;
   color: #1a1a1a;
+  margin: 30px;
 }
 
 /**
