@@ -553,6 +553,12 @@ display: flex;
   margin: 30px;
 }
 
+.parent2{
+text-align: justify; 
+width: 960px;
+margin: auto;
+}
+
 /**
 * decouvrez-notre-librairie
 */
