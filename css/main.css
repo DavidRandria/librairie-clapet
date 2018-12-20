@@ -394,6 +394,7 @@ button {
   margin: 0;
   font-size: 1.8em;
   color: #e8a27d;
+  text-align: left;
 }
 
 .news__title {
